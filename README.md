@@ -39,6 +39,3 @@ Considérant le VWAP comme un indicateur de tendance, lorsque le prix traverse l
 Conclusion
 Pour terminer, il semble évident que le VWAP peut être superposé avec différents concepts d’analyse technique tels que les lignes de support et de résistance, les tendances, etc. Au final, le cours moyen pondéré en fonction du volume sert, avant tout, à identifier la tendance dominante pour la séance en cours. Il peut donc s’avérer judicieux pour l’investisseur autonome d’utiliser le VWAP en combinaison avec des moyennes mobiles ou avec d’autres indicateurs techniques pour confirmer les signaux d’achat et de vente.
 
-Biographie de l’auteur : Alexandre Demers est un investisseur actif depuis 2013 et le président fondateur de la firme Traders 360 inc. Il est également l’auteur du livre électronique « Investir à contre-courant » et l’hôte du podcast « Finance 360 » disponible gratuitement sur Spotify et iTunes. Son objectif est de démocratiser le trading sur la Bourse et d’éduquer le grand public sur les possibilités de l’investissement autogéré.
-
-L’article ci-dessus a été rédigé par la firme Traders 360 qui est un partenaire externe et indépendant de Banque Nationale Courtage direct.
